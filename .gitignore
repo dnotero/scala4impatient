@@ -4,3 +4,14 @@
 /project/project/
 /project/target/
 /target/
+
+
+*.classpath
+*.project
+*.sbtserver/
+*.settings/
+*.worksheet/
+project/.sbtserver
+project/.sbtserver.lock
+project/eclipse.sbt
+project/sbt-ui.sbt
